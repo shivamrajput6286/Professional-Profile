@@ -2,7 +2,7 @@
 
 ## Short-Term Goal
 
-To strengthen my programming, problem-solving, and technical skills through academic projects, coding practice, and hands-on learning.
+To improve my programming, problem-solving, and Git/GitHub skills through regular coding practice and hands-on projects.
 
 ## Long-Term Goal
 
